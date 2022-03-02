@@ -37,6 +37,8 @@ hr{
     border-top: 10px dotted #EAF6F6;
     margin: 100px auto 100px auto;
     border-bottom: none;
+    border-right: none;
+    border-left: none;
 }
 .topContainer{
    position: relative;
